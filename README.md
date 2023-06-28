@@ -1,3 +1,6 @@
+____________________________________
+          LEAVE ME HERE
+____________________________________
 Meu nome é Jean,mas me chamam de 7r3v050 ou wrench
 
 to aqui pra criar modificações de scripts que possuem algum problema e meio que backupar eles aqui
