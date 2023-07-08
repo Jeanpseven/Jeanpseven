@@ -8,7 +8,7 @@ to aqui pra criar modificações de scripts que possuem algum problema e meio qu
 
 Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
-![DEDSEC+FSOCIETY=FSEC](welcome.gif)
+![DEDSEC+FSOCIETY=FSEC](welcome.png)
 
 
 #Jeanpseven/Jeanpseven is a ✨ sexy ✨ repository because its `README.md` (this file) appears on your GitHub profile.
