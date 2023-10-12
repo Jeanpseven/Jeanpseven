@@ -2,7 +2,10 @@ ____________________________________
 
           LEAVE ME HERE
 ____________________________________
-Meu nome é Jean,mas me chamam de 7r3v050 ou wrench
+Meu nome é Jean,mas me chamam de Wrench
+
+importante:tenho q atualizar todos meus repos,todos meus scripts,muitos estão dando erro
+
 
 constantemente atualizando meus códigos para funcionar bem em qualquer dispositivo...
 
