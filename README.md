@@ -9,7 +9,7 @@ importante:tenho q atualizar todos meus repos,todos meus scripts,muitos estão d
 
 constantemente atualizando meus códigos para funcionar bem em qualquer dispositivo...
 
-to aqui pra criar modificações de scripts que possuem algum problema e meio que backupar eles aqui
+to aqui pra criar modificações de scripts ou forks que possuem algum problema e meio que backupar eles aqui
 
 Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
