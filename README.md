@@ -298,7 +298,7 @@ I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor
 ![](https://github-contributor-stats.vercel.app/api?username=jeanpseven&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=jeanpseven&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=jeanpseven&icon=0&color=3)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
