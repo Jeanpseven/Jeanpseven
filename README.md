@@ -24,6 +24,7 @@ ____________________________________
 <div><p align="left" height="80px">
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/cplusplus-original.svg" width="40"/>      
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40"/>
@@ -31,6 +32,7 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/go-original.svg" width="40"/>
 </p></div>
 
 ____________________________________
