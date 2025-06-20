@@ -29,7 +29,8 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="40"/>
 </p></div>
 
 ____________________________________
