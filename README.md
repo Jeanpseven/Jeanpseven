@@ -58,6 +58,7 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/supabase-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/unity-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/roblox-studio-1.svg" width="40"/>
 </p>
 
 ____________________________________
