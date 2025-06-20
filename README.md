@@ -299,7 +299,7 @@ I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor
 ---
 ![](https://visitcount.itsvg.in/api?id=jeanpseven&icon=0&color=3)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM https://gprm.itsvg.in-->
 
 <!-- Você é curiosa,gosto disso -->
 
