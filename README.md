@@ -92,7 +92,8 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/roblox-studio-1.svg" width="40" alt="Roblox Studio"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/FL-Studio-icon.png" width="40" alt="FL Studio"/>        
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/Corel-Draw-X3-icon.png" width="40" alt="CorelDRAW"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/icons8-sketchware.svg" width="40" alt="Sketchware"/>    
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/icons8-sketchware.svg" width="40" alt="Sketchware"/> 
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/ssh_5136897.png" width="40" alt="SSH"/> 
 </p>
 
 ____________________________________
