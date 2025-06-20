@@ -48,6 +48,7 @@ to aqui pra criar modificações de scripts ou forks que possuem algum problema 
 Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
 ![DEDSEC+FSOCIETY=FSEC](wtd.png)
+<img src="https://github.com/Jeanpseven/Gorgeous-GRUB/blob/main/Images/Dedsec.gif">
 
 
 #Jeanpseven/Jeanpseven is a ✨ sexy ✨ repository because its `README.md` (this file) appears on your GitHub profile.
