@@ -31,7 +31,7 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/go-original.svg" width="40"/>
 </p></div>
 
