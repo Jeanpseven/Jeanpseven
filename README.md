@@ -52,7 +52,7 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/go-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/illustrator-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/kali-1.svg" width="80" height="50"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/kali-1.svg" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/lua-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/photoshop-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/python-original.svg" width="40"/>
