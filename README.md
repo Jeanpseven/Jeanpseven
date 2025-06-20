@@ -21,7 +21,7 @@ Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
 Linguagens:
 ____________________________________
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/Files-Sql-icon.png" width="40">
+<div style="background-color:white"><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/Files-Sql-icon.png" width="40">
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/Logos-Java-Coffee-Cup-Logo-Copyrighted-icon.png" width="40">
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-icon.png" width="40">
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-icon.png" width="40">
@@ -32,6 +32,7 @@ ____________________________________
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/lua-icon.png" width="40">
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-icon.png" width="40">
 <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-icon.png" width="40">
+<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-icon.png" width="40"></div>
+
 ____________________________________
 
