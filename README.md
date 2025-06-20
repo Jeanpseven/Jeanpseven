@@ -24,7 +24,7 @@ ____________________________________
 <div><p align="left" height="80px">
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/cplusplus-original.svg" width="40"/>      
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/cplusplus-original.svg" width="40"/>    
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40"/>
@@ -47,13 +47,13 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/apache-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/arduino-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/debian-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/figma-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/firebase-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/supabase-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/go-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/kali-1.svg" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/lua-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/python-original.svg" width="40"/>
