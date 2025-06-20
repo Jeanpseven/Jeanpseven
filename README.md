@@ -288,8 +288,6 @@ I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jeanpseven&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=jeanpseven&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpseven&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ## 🏆 GitHub Trophies
