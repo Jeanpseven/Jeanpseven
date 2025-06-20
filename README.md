@@ -276,7 +276,7 @@ ____________________________________
 ![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpseven&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💫 About Me:
-I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor<br>Graphic Designer<br>Langs: java,python,Javascript,kotlin,SQL,PHP,Lua,Go,Ruby,C,C#,C++
+I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor<br>Graphic Designer<br>Langs: java,python,Javascript,kotlin,SQL,PHP,Lua,Go,Ruby,C,C#,C++......[Loading...]
 
 
 ## 🌐 Socials:
