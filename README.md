@@ -21,8 +21,7 @@ Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
 Linguagens:
 ____________________________________
-<div height="60px
-"><p align="left">
+<div><p align="left" height="80px">
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40"/>
