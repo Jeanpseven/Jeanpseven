@@ -21,18 +21,16 @@ Hackeie o Gibson e lembre-se,abraços são mais dignos que apertos de mão
 
 Linguagens:
 ____________________________________
-<div style="background-color:#FFFFFF"><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/Files-Sql-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/Logos-Java-Coffee-Cup-Logo-Copyrighted-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/language-c-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/language-cpp-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/language-csharp-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/language-go-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/lua-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-icon.png" width="40">
-<img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-icon.png" width="40"></div>
+<div style="background-color:#FFFFFF"><p align="left">
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40"/>
+</p></div>
 
 ____________________________________
 
