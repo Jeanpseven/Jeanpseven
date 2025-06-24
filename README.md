@@ -252,7 +252,7 @@ Tech:
 ____________________________________
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/aftereffects-original.svg" width="40" alt="After Effects"/>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/aftereffects-original.svg" width="40" alt="After Effects"/></code>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/illustrator-plain.svg" width="40" alt="Illustrator"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/photoshop-original.svg" width="40" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/androidstudio-original.svg" width="40" alt="Android Studio"/>
@@ -270,7 +270,9 @@ ____________________________________
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/FL-Studio-icon.png" width="40" alt="FL Studio"/>        
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/Corel-Draw-X3-icon.png" width="40" alt="CorelDRAW"/> 
   <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/icons8-sketchware.svg" width="40" alt="Sketchware"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/ssh_5136897.png" width="40" alt="SSH"/> 
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/ssh_5136897.png" width="40" alt="SSH"/>
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/nodejs-original.svg" width="40" alt="NodeJS"/> 
+  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/react-original.svg" width="40" alt="React"/>         
 </p>
 
 ____________________________________
