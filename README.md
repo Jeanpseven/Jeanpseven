@@ -233,47 +233,48 @@ Linguagens:
 ____________________________________
 
 <div><p align="left" height="80px">
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/cplusplus-original.svg" width="40" alt="C++"/>    
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40" alt="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40" alt="Ruby"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="60" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/go-original.svg" width="40" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/lua-original.svg" width="40" alt="Lua"/>        
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/c-original.svg" width="40" alt="C"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/csharp-original.svg" width="40" alt="C#"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/cplusplus-original.svg" width="40" alt="C++"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/java-original.svg" width="40" alt="Java"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/javascript-original.svg" width="40" alt="JavaScript"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/kotlin-original.svg" width="40" alt="Kotlin"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/php-original.svg" width="40" alt="PHP"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/python-original%20(1).svg" width="40" alt="Python"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/ruby-original.svg" width="40" alt="Ruby"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/mysql-original.svg" width="60" alt="MySQL"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/linguagens/go-original.svg" width="40" alt="Go"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/lua-original.svg" width="40" alt="Lua"/></code>        
 </p></div>
 
-____________________________________
-Tech:
-____________________________________
+____________________________________  
+Tech:  
+____________________________________  
 
 <p align="left">
   <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/aftereffects-original.svg" width="40" alt="After Effects"/></code>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/illustrator-plain.svg" width="40" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/photoshop-original.svg" width="40" alt="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/androidstudio-original.svg" width="40" alt="Android Studio"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/apache-original.svg" width="40" alt="Apache"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/arduino-original.svg" width="40" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/debian-original.svg" width="40" alt="Debian"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/firebase-original.svg" width="40" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/supabase-original.svg" width="40" alt="Supabase"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/kali-1.svg" width="80" height="40" alt="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/unity-original.svg" width="40" alt="Unity"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/roblox-studio-1.svg" width="40" alt="Roblox Studio"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/FL-Studio-icon.png" width="40" alt="FL Studio"/>        
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/Corel-Draw-X3-icon.png" width="40" alt="CorelDRAW"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/icons8-sketchware.svg" width="40" alt="Sketchware"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/ssh_5136897.png" width="40" alt="SSH"/>
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/nodejs-original.svg" width="40" alt="NodeJS"/> 
-  <img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/react-original.svg" width="40" alt="React"/>         
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/illustrator-plain.svg" width="40" alt="Illustrator"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/photoshop-original.svg" width="40" alt="Photoshop"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/androidstudio-original.svg" width="40" alt="Android Studio"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/apache-original.svg" width="40" alt="Apache"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/arduino-original.svg" width="40" alt="Arduino"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/debian-original.svg" width="40" alt="Debian"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/figma-original.svg" width="40" alt="Figma"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/firebase-original.svg" width="40" alt="Firebase"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/supabase-original.svg" width="40" alt="Supabase"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/html5-original.svg" width="40" alt="HTML5"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/css3-original.svg" width="40" alt="CSS3"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/kali-1.svg" width="80" height="40" alt="Kali Linux"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/unity-original.svg" width="40" alt="Unity"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/roblox-studio-1.svg" width="40" alt="Roblox Studio"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/FL-Studio-icon.png" width="40" alt="FL Studio"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/Corel-Draw-X3-icon.png" width="40" alt="CorelDRAW"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/icons8-sketchware.svg" width="40" alt="Sketchware"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/ssh_5136897.png" width="40" alt="SSH"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/nodejs-original.svg" width="40" alt="NodeJS"/></code>
+  <code><img src="https://raw.githubusercontent.com/Jeanpseven/Jeanpseven/main/tech/react-original.svg" width="40" alt="React"/></code>
 </p>
+
 
 ____________________________________
 ![Linguagens mais usadas aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpseven&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
