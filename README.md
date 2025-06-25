@@ -299,6 +299,20 @@ I'm currently learning Lua scripting<br>Hacking Enthusiast<br>Video/Photo Editor
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeanpseven&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jeanpseven/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jeanpseven/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/jeanpseven/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=jeanpseven&icon=0&color=3)
